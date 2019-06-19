@@ -37,6 +37,15 @@ ol, ul {
 	list-style: none;
 }
 
+ul.posts { 
+    margin: 20px auto 12px; 
+    font-size: 12px;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -1658,3 +1667,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
