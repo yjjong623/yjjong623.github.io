@@ -1158,7 +1158,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/black.png");
+			background-image: url("../../images/black.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1294,12 +1294,12 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 3px #ffffff;
+			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 
 			#header .logo .icon:before {
-				font-size: 3rem;
+				font-size: 2rem;
 			}
 
 		#header .content {
